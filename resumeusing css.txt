@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>RESUME</title>
+        <style>
+        *{
+            box-sizing: border-box;
+
+        }
+        .container{
+            width:1140px;
+            margin:30px auto auto auto;
+        }
+        .top{
+            background-color:grey;
+        }
+        .top img{
+            height:130px;
+            width:130px;
+            border-radius:50%;
+            top:30px;
+            margin-left:520px;
+            position:relative;
+        }
+        .myname{
+            margin-left:450px;
+            margin-right:450px;
+            height:50px;
+            border-radius:10px;
+           background-color:orange;
+        }
+        .info {
+            border-bottom: 1px solid black; 
+        }
+        .info_color{
+            color: grey;
+        }
+       .row{
+        padding-right:50px;
+        width:50%;
+         float: left;
+          font-size:20px;
+          border-right: 1px solid grey;
+           
+       } 
+       .column{
+        padding-top:10px;
+           padding-left:50px;
+           width:50%;
+           float:right;
+           color:black;
+           font-size:20px;
+              
+               }
+       </style>
+        </head>
+        <body background-color="white">
+            <div class="container">
+                <div class="top">
+                    <img src="myimg.jpg">
+                    <h1 class="myname" >&nbsp;&nbsp;&nbsp;K.MOUNIKA </h1>
+                 </div>
+                </div>
+                <div class="info"><h4 align="center" class="info_color">K.Mounika, Vishakapatnam  530011 |530045|"mounisri@gmail.com"</h4></h4></div>
+                <div class="row">
+                    <h1 style="color:grey">Profile</h1>
+                    <p class="">Seeking a fresher job to associate myself with an organization
+                        that supplements my knowledge and enables me to play a vital role
+                         in its growth through application of my creative, technicalr and academic skills.</p>
+                        </p>
+                        <h1 style="color:grey">Skills</h1>
+              <h3 style="text-align:center;" >Technical Skills</h3>
+              <p> JavaScript<br>CSS<br>HTML<br>React<br>Redux<br>Mongo<br>Deployment</p>
+              <h3 style="text-align:center">Inter Personal Skills</h3>
+              <p>Good Team Player<br>Adaptive Nature<br>Effective Listening<br>Problem solving</p>
+         <h1 style="color:grey">Projects</h1>
+         <h3>Title: "Analysis of Literacy Rate using Python"</h3>
+         <ul>
+             <li>Technology used: Python, Jupyter Lab</li>
+             <li>Description: Change in Literacy with respect to population is very less.
+                  If we can Find dofferent Factors which Effect literacy rate in specific sate or district
+                  there can be improvement.</li>
+                  <li>Role: Team player</li>
+         </ul>
+         </div>
+         <div class="column"  >
+            <h1 style="color:grey">Personal Statement</h1>
+            <p>I have always tried to model my life on the basis of the following values,
+                which have been imbided in me by my familyright from my childhood.
+            </p>
+            <ul>
+                <li>I always put Sincere effors for any task given.</li>
+                <li>I am hard working and fast learner and always open to learn new Technology.</li>
+                <li>I maintain virtues of a clear conscience, high values and ethic.</li>
+            </ul>
+            <h1 style="color:grey">Education</h1>
+            <ul>
+                <li>I have completed my Bachelor of Technology(BTech) in Vignan Institute of Information Technology with CGPA 7.2 </li>
+                <li>Developed full-satck web application, "Hotel Managment" where it allows users to book there rooms in online.</li>
+              <li>Done a project on python ,"Analysis of Literacy Rate using Python" .Change in Literacy with respect to population is very less.
+                If we can Find dofferent Factors which Effect literacy rate in specific sate or district
+                there can be improvement</li>
+                <li>I am open to learn new Technologies  so I have started to learn full stack development.</li>
+                <li>I felt coding is a game through which we can develop many things. I am a Self learner where I use to leran many things everyday. </li>
+              <b>BTech,Information Technology</b>&nbsp;&nbsp;&nbsp;&nbsp;
+              03/2016 - 04/2020  
+            </ul>
+            <h1 style="color:grey">Declaration</h1>
+            <p>I here by declare that the above mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above mentioned particulars.</p>
+            </div>
+          </div>
+                </body>
+    </html>
+         </div>
+                </div>
+            </div>
+        </body>
+    </html>
